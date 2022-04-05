@@ -7,12 +7,17 @@ using System.Threading.Tasks;
 
 namespace _24HourComment.Data
 {
-    internal class Comment
+    public class Comment
     {
         [Key]
         public int CommentId { get; set; }
+        [Required]
         public string CommentText { get; set; }
+        [Required]
         public Guid AuthorId { get; set; }
-
+        [Required]
+        public virtual List<Reply> Replies { get; set; }
+        //[Required]
+        //foreign key via Id for virtual post
     }
 }
