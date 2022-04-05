@@ -7,10 +7,11 @@ using System.Threading.Tasks;
 
 namespace _24HourReply.Model
 {
-    internal class ReplyListItem
+    public class ReplyListItem
     {
         public int ReplyId { get; set; }
-        
+        public string RText { get; set; }
+
         [Display(Name="Created")]
         public DateTimeOffset CreatedUtc { get; set; }
     }
