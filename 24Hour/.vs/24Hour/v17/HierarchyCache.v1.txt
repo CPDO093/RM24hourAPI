@@ -1,0 +1,504 @@
+﻿++Solution '24Hour' ‎(10 of 10 projects)
+i:{00000000-0000-0000-0000-000000000000}:24Hour.sln
+++24HourPost.Data
+i:{00000000-0000-0000-0000-000000000000}:24HourPost.Data
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:
+++Properties
+i:{965c9bce-f2c3-4cf0-a19b-a4c741e83b52}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourpost.data\properties\
+i:{6aa26493-34eb-40cc-8ba3-3520719c7c3a}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourcomment.data\properties\
+i:{fc00837c-e3b0-4f87-9f25-571441ebd8a5}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourreply.data\properties\
+i:{5d6ac5f9-b3ad-4a22-a355-7344fb11f4ee}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourpost.model\properties\
+i:{f9723fdd-8703-42bb-b0ed-c854c9ce5dfc}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourcomment.model\properties\
+i:{72a5b23f-11d6-49d8-aab8-6fbb743a3247}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourreply.model\properties\
+i:{40bfc964-3424-48d2-9081-266fd03eaec1}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourpost.services\properties\
+i:{e629139e-e9dd-48c3-a304-10685e57b5a2}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourcomment.services\properties\
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourreply.services\properties\
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\properties\
+++References
+i:{965c9bce-f2c3-4cf0-a19b-a4c741e83b52}:
+i:{6aa26493-34eb-40cc-8ba3-3520719c7c3a}:
+i:{fc00837c-e3b0-4f87-9f25-571441ebd8a5}:
+i:{5d6ac5f9-b3ad-4a22-a355-7344fb11f4ee}:
+i:{f9723fdd-8703-42bb-b0ed-c854c9ce5dfc}:
+i:{72a5b23f-11d6-49d8-aab8-6fbb743a3247}:
+i:{40bfc964-3424-48d2-9081-266fd03eaec1}:
+i:{e629139e-e9dd-48c3-a304-10685e57b5a2}:
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++App.config
+i:{965c9bce-f2c3-4cf0-a19b-a4c741e83b52}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourpost.data\app.config
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourreply.services\app.config
+++IdentityModels.cs
+i:{965c9bce-f2c3-4cf0-a19b-a4c741e83b52}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourpost.data\identitymodels.cs
+++packages.config
+i:{965c9bce-f2c3-4cf0-a19b-a4c741e83b52}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourpost.data\packages.config
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourreply.services\packages.config
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\packages.config
+++AssemblyInfo.cs
+i:{965c9bce-f2c3-4cf0-a19b-a4c741e83b52}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourpost.data\properties\assemblyinfo.cs
+i:{6aa26493-34eb-40cc-8ba3-3520719c7c3a}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourcomment.data\properties\assemblyinfo.cs
+i:{fc00837c-e3b0-4f87-9f25-571441ebd8a5}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourreply.data\properties\assemblyinfo.cs
+i:{5d6ac5f9-b3ad-4a22-a355-7344fb11f4ee}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourpost.model\properties\assemblyinfo.cs
+i:{f9723fdd-8703-42bb-b0ed-c854c9ce5dfc}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourcomment.model\properties\assemblyinfo.cs
+i:{72a5b23f-11d6-49d8-aab8-6fbb743a3247}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourreply.model\properties\assemblyinfo.cs
+i:{40bfc964-3424-48d2-9081-266fd03eaec1}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourpost.services\properties\assemblyinfo.cs
+i:{e629139e-e9dd-48c3-a304-10685e57b5a2}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourcomment.services\properties\assemblyinfo.cs
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourreply.services\properties\assemblyinfo.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\properties\assemblyinfo.cs
+++EntityFramework
+i:{965c9bce-f2c3-4cf0-a19b-a4c741e83b52}:
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++EntityFramework.SqlServer
+i:{965c9bce-f2c3-4cf0-a19b-a4c741e83b52}:
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++Microsoft.AspNet.Identity.Core
+i:{965c9bce-f2c3-4cf0-a19b-a4c741e83b52}:
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++Microsoft.AspNet.Identity.EntityFramework
+i:{965c9bce-f2c3-4cf0-a19b-a4c741e83b52}:
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++Microsoft.CSharp
+i:{965c9bce-f2c3-4cf0-a19b-a4c741e83b52}:
+i:{6aa26493-34eb-40cc-8ba3-3520719c7c3a}:
+i:{fc00837c-e3b0-4f87-9f25-571441ebd8a5}:
+i:{5d6ac5f9-b3ad-4a22-a355-7344fb11f4ee}:
+i:{f9723fdd-8703-42bb-b0ed-c854c9ce5dfc}:
+i:{72a5b23f-11d6-49d8-aab8-6fbb743a3247}:
+i:{40bfc964-3424-48d2-9081-266fd03eaec1}:
+i:{e629139e-e9dd-48c3-a304-10685e57b5a2}:
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System
+i:{965c9bce-f2c3-4cf0-a19b-a4c741e83b52}:
+i:{6aa26493-34eb-40cc-8ba3-3520719c7c3a}:
+i:{fc00837c-e3b0-4f87-9f25-571441ebd8a5}:
+i:{5d6ac5f9-b3ad-4a22-a355-7344fb11f4ee}:
+i:{f9723fdd-8703-42bb-b0ed-c854c9ce5dfc}:
+i:{72a5b23f-11d6-49d8-aab8-6fbb743a3247}:
+i:{40bfc964-3424-48d2-9081-266fd03eaec1}:
+i:{e629139e-e9dd-48c3-a304-10685e57b5a2}:
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.ComponentModel.DataAnnotations
+i:{965c9bce-f2c3-4cf0-a19b-a4c741e83b52}:
+i:{fc00837c-e3b0-4f87-9f25-571441ebd8a5}:
+i:{72a5b23f-11d6-49d8-aab8-6fbb743a3247}:
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Core
+i:{965c9bce-f2c3-4cf0-a19b-a4c741e83b52}:
+i:{6aa26493-34eb-40cc-8ba3-3520719c7c3a}:
+i:{fc00837c-e3b0-4f87-9f25-571441ebd8a5}:
+i:{5d6ac5f9-b3ad-4a22-a355-7344fb11f4ee}:
+i:{f9723fdd-8703-42bb-b0ed-c854c9ce5dfc}:
+i:{72a5b23f-11d6-49d8-aab8-6fbb743a3247}:
+i:{40bfc964-3424-48d2-9081-266fd03eaec1}:
+i:{e629139e-e9dd-48c3-a304-10685e57b5a2}:
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Data
+i:{965c9bce-f2c3-4cf0-a19b-a4c741e83b52}:
+i:{6aa26493-34eb-40cc-8ba3-3520719c7c3a}:
+i:{fc00837c-e3b0-4f87-9f25-571441ebd8a5}:
+i:{5d6ac5f9-b3ad-4a22-a355-7344fb11f4ee}:
+i:{f9723fdd-8703-42bb-b0ed-c854c9ce5dfc}:
+i:{72a5b23f-11d6-49d8-aab8-6fbb743a3247}:
+i:{40bfc964-3424-48d2-9081-266fd03eaec1}:
+i:{e629139e-e9dd-48c3-a304-10685e57b5a2}:
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Data.DataSetExtensions
+i:{965c9bce-f2c3-4cf0-a19b-a4c741e83b52}:
+i:{6aa26493-34eb-40cc-8ba3-3520719c7c3a}:
+i:{fc00837c-e3b0-4f87-9f25-571441ebd8a5}:
+i:{5d6ac5f9-b3ad-4a22-a355-7344fb11f4ee}:
+i:{f9723fdd-8703-42bb-b0ed-c854c9ce5dfc}:
+i:{72a5b23f-11d6-49d8-aab8-6fbb743a3247}:
+i:{40bfc964-3424-48d2-9081-266fd03eaec1}:
+i:{e629139e-e9dd-48c3-a304-10685e57b5a2}:
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Net.Http
+i:{965c9bce-f2c3-4cf0-a19b-a4c741e83b52}:
+i:{6aa26493-34eb-40cc-8ba3-3520719c7c3a}:
+i:{fc00837c-e3b0-4f87-9f25-571441ebd8a5}:
+i:{5d6ac5f9-b3ad-4a22-a355-7344fb11f4ee}:
+i:{f9723fdd-8703-42bb-b0ed-c854c9ce5dfc}:
+i:{72a5b23f-11d6-49d8-aab8-6fbb743a3247}:
+i:{40bfc964-3424-48d2-9081-266fd03eaec1}:
+i:{e629139e-e9dd-48c3-a304-10685e57b5a2}:
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Xml
+i:{965c9bce-f2c3-4cf0-a19b-a4c741e83b52}:
+i:{6aa26493-34eb-40cc-8ba3-3520719c7c3a}:
+i:{fc00837c-e3b0-4f87-9f25-571441ebd8a5}:
+i:{5d6ac5f9-b3ad-4a22-a355-7344fb11f4ee}:
+i:{f9723fdd-8703-42bb-b0ed-c854c9ce5dfc}:
+i:{72a5b23f-11d6-49d8-aab8-6fbb743a3247}:
+i:{40bfc964-3424-48d2-9081-266fd03eaec1}:
+i:{e629139e-e9dd-48c3-a304-10685e57b5a2}:
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Xml.Linq
+i:{965c9bce-f2c3-4cf0-a19b-a4c741e83b52}:
+i:{6aa26493-34eb-40cc-8ba3-3520719c7c3a}:
+i:{fc00837c-e3b0-4f87-9f25-571441ebd8a5}:
+i:{5d6ac5f9-b3ad-4a22-a355-7344fb11f4ee}:
+i:{f9723fdd-8703-42bb-b0ed-c854c9ce5dfc}:
+i:{72a5b23f-11d6-49d8-aab8-6fbb743a3247}:
+i:{40bfc964-3424-48d2-9081-266fd03eaec1}:
+i:{e629139e-e9dd-48c3-a304-10685e57b5a2}:
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++24HourComment.Data
+i:{00000000-0000-0000-0000-000000000000}:24HourComment.Data
+++24HourReply.Data
+i:{00000000-0000-0000-0000-000000000000}:24HourReply.Data
+++Reply.cs
+i:{fc00837c-e3b0-4f87-9f25-571441ebd8a5}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourreply.data\reply.cs
+++24HourPost.Model
+i:{00000000-0000-0000-0000-000000000000}:24HourPost.Model
+++24HourComment.Model
+i:{00000000-0000-0000-0000-000000000000}:24HourComment.Model
+++24HourReply.Model
+i:{00000000-0000-0000-0000-000000000000}:24HourReply.Model
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++ReplyCreate.cs
+i:{72a5b23f-11d6-49d8-aab8-6fbb743a3247}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourreply.model\replycreate.cs
+++ReplyDetail.cs
+i:{72a5b23f-11d6-49d8-aab8-6fbb743a3247}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourreply.model\replydetail.cs
+++ReplyEdit.cs
+i:{72a5b23f-11d6-49d8-aab8-6fbb743a3247}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourreply.model\replyedit.cs
+++ReplyListItem.cs
+i:{72a5b23f-11d6-49d8-aab8-6fbb743a3247}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourreply.model\replylistitem.cs
+++24HourPost.Services
+i:{00000000-0000-0000-0000-000000000000}:24HourPost.Services
+++24HourComment.Services
+i:{00000000-0000-0000-0000-000000000000}:24HourComment.Services
+++24HourReply.Services
+i:{00000000-0000-0000-0000-000000000000}:24HourReply.Services
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++ReplyServices.cs
+i:{19137506-9604-48cb-8284-2ae9916a52b3}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\24hourreply.services\replyservices.cs
+++RM24HourAPI
+i:{00000000-0000-0000-0000-000000000000}:RM24HourAPI
+++Antlr3.Runtime
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++Microsoft.AspNet.Identity.Owin
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++Microsoft.Owin
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++Microsoft.Owin.Host.SystemWeb
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++Microsoft.Owin.Security
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++Microsoft.Owin.Security.Cookies
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++Microsoft.Owin.Security.Google
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++Microsoft.Owin.Security.MicrosoftAccount
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++Microsoft.Owin.Security.OAuth
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++Microsoft.Owin.Security.Twitter
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++Microsoft.Web.Infrastructure
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++Newtonsoft.Json
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++Owin
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Configuration
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Drawing
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Net.Http.Formatting
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Net.Http.WebRequest
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Runtime.Serialization
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Web
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Web.Abstractions
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Web.ApplicationServices
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Web.Entity
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Web.Helpers
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Web.Http
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Web.Http.Owin
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Web.Http.WebHost
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Web.Mvc
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Web.Optimization
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Web.Razor
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Web.Routing
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Web.WebPages
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Web.WebPages.Deployment
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++System.Web.WebPages.Razor
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++WebGrease
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:
+++App_Data
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\app_data\
+++App_Start
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\app_start\
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\app_start\
+++BundleConfig.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\app_start\filterconfig.cs
+++IdentityConfig.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\app_start\identityconfig.cs
+++RouteConfig.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\app_start\routeconfig.cs
+++Startup.Auth.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\app_start\startup.auth.cs
+++WebApiConfig.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\app_start\webapiconfig.cs
+++Areas
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\
+++HelpPage
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\
+++Content
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\content\
+++bootstrap-theme.css
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\content\bootstrap.css
+++bootstrap.css.map
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\content\bootstrap.css.map
+++bootstrap.min.css
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\content\bootstrap.min.css.map
+++Site.css
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\content\site.css
+++Controllers
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\controllers\
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\controllers\
+++AccountController.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\controllers\accountcontroller.cs
+++HomeController.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\controllers\homecontroller.cs
+++ValuesController.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\controllers\valuescontroller.cs
+++fonts
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\fonts\
+++glyphicons-halflings-regular.eot
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\fonts\glyphicons-halflings-regular.woff2
+++Models
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\models\
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\models\
+++AccountBindingModels.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\models\accountbindingmodels.cs
+++AccountViewModels.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\models\accountviewmodels.cs
+++Providers
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\providers\
+++ApplicationOAuthProvider.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\providers\applicationoauthprovider.cs
+++Results
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\results\
+++ChallengeResult.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\results\challengeresult.cs
+++Scripts
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\scripts\
+++bootstrap.js
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\scripts\bootstrap.js
+++bootstrap.min.js
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\scripts\modernizr-2.8.3.js
+++Views
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\views\
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\
+++Home
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\views\home\
+++Shared
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\views\shared\
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\shared\
+++_ViewStart.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\views\_viewstart.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\_viewstart.cshtml
+++Web.config
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\views\web.config
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\web.config
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\web.config
+++favicon.ico
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\favicon.ico
+++Global.asax
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\global.asax
+++Startup.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\startup.cs
+++ModelDescriptions
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\modeldescriptions\
+++SampleGeneration
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\samplegeneration\
+++ApiDescriptionExtensions.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\apidescriptionextensions.cs
+++HelpPage.css
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\helppage.css
+++HelpPageAreaRegistration.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\helppagearearegistration.cs
+++HelpPageConfigurationExtensions.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\helppageconfigurationextensions.cs
+++XmlDocumentationProvider.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\xmldocumentationprovider.cs
+++Index.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\views\home\index.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\help\index.cshtml
+++_Layout.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\views\shared\_layout.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\shared\_layout.cshtml
+++Error.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\views\shared\error.cshtml
+++Global.asax.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\global.asax.cs
+++Web.Debug.config
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\web.debug.config
+++Web.Release.config
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\web.release.config
+++HelpPageConfig.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\app_start\helppageconfig.cs
+++HelpController.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\controllers\helpcontroller.cs
+++CollectionModelDescription.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\modeldescriptions\collectionmodeldescription.cs
+++ComplexTypeModelDescription.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\modeldescriptions\complextypemodeldescription.cs
+++DictionaryModelDescription.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\modeldescriptions\dictionarymodeldescription.cs
+++EnumTypeModelDescription.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\modeldescriptions\enumtypemodeldescription.cs
+++EnumValueDescription.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\modeldescriptions\enumvaluedescription.cs
+++IModelDocumentationProvider.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\modeldescriptions\imodeldocumentationprovider.cs
+++KeyValuePairModelDescription.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\modeldescriptions\keyvaluepairmodeldescription.cs
+++ModelDescription.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\modeldescriptions\modeldescription.cs
+++ModelDescriptionGenerator.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\modeldescriptions\modeldescriptiongenerator.cs
+++ModelNameAttribute.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\modeldescriptions\modelnameattribute.cs
+++ModelNameHelper.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\modeldescriptions\modelnamehelper.cs
+++ParameterAnnotation.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\modeldescriptions\parameterannotation.cs
+++ParameterDescription.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\modeldescriptions\parameterdescription.cs
+++SimpleTypeModelDescription.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\modeldescriptions\simpletypemodeldescription.cs
+++HelpPageApiModel.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\models\helppageapimodel.cs
+++HelpPageSampleGenerator.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\samplegeneration\helppagesamplegenerator.cs
+++HelpPageSampleKey.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\samplegeneration\helppagesamplekey.cs
+++ImageSample.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\samplegeneration\imagesample.cs
+++InvalidSample.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\samplegeneration\invalidsample.cs
+++ObjectGenerator.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\samplegeneration\objectgenerator.cs
+++SampleDirection.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\samplegeneration\sampledirection.cs
+++TextSample.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\samplegeneration\textsample.cs
+++Help
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\help\
+++DisplayTemplates
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\help\displaytemplates\
+++Api.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\help\api.cshtml
+++ResourceModel.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\help\resourcemodel.cshtml
+++ApiGroup.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\help\displaytemplates\apigroup.cshtml
+++CollectionModelDescription.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\help\displaytemplates\collectionmodeldescription.cshtml
+++ComplexTypeModelDescription.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\help\displaytemplates\complextypemodeldescription.cshtml
+++DictionaryModelDescription.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\help\displaytemplates\dictionarymodeldescription.cshtml
+++EnumTypeModelDescription.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\help\displaytemplates\enumtypemodeldescription.cshtml
+++HelpPageApiModel.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\help\displaytemplates\helppageapimodel.cshtml
+++ImageSample.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\help\displaytemplates\imagesample.cshtml
+++InvalidSample.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\help\displaytemplates\invalidsample.cshtml
+++KeyValuePairModelDescription.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\help\displaytemplates\keyvaluepairmodeldescription.cshtml
+++ModelDescriptionLink.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\help\displaytemplates\modeldescriptionlink.cshtml
+++Parameters.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\help\displaytemplates\parameters.cshtml
+++Samples.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\help\displaytemplates\samples.cshtml
+++SimpleTypeModelDescription.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\help\displaytemplates\simpletypemodeldescription.cshtml
+++TextSample.cshtml
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\areas\helppage\views\help\displaytemplates\textsample.cshtml
+++ReplyController.cs
+i:{1704a84b-c563-430b-9b2c-da55a0e72ddf}:d:\udemy code\elevenfiftyprojects\bluebadge\rm24hourapi\24hour\rm24hourapi\controllers\replycontroller.cs
