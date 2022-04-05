@@ -38,6 +38,13 @@ namespace RM24HourAPI.Controllers
                 return InternalServerError();
 
             return Ok();
-    }
+        }
+
+        public IHttpActionResult Get(int id)
+        {
+            PostService postService = CreatePostService();
+            var post = postService.GetPostById(id);
+            return Ok(post);
+        }
     }
 }

@@ -10,7 +10,7 @@ namespace _24HourPost.Data
     public class Post
     {
         [Key]
-        public int Id { get; set; }
+        public int PostId { get; set; }
         [Required]
         public string Title { get; set; }
         [Required]

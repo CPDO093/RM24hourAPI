@@ -29,7 +29,7 @@ namespace _24HourPost.Services
                 };
             using (var ctx = new ApplicationDbContext())
             {
-                ctx.Post.Add(entity);
+                ctx.Posts.Add(entity);
                 return ctx.SaveChanges() == 1;
             }
         }
@@ -53,6 +53,24 @@ namespace _24HourPost.Services
                         );
 
                 return query.ToArray();
+            }
+        }
+
+        public PostDetail GetPostById(int id)
+        {
+            using (var ctx = new ApplicationDbContext())
+            {
+                var entity =
+                    ctx
+                        .Posts
+                        .Single(e => e.PostId == id && e.AuthorId == _userId);
+                return
+                    new PostDetail
+                    {
+                        PostId = entity.PostId,
+                        Title = entity.Title,
+                        Text = entity.Text
+                    };
             }
         }
     }
