@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _24HourReply.Model
 {
-    internal class ReplyDetail
+    public class ReplyDetail
     {
         public int ReplyId { get; set; }
         public string RText { get; set; }
