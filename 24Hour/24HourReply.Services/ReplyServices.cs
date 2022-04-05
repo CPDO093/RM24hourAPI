@@ -1,4 +1,5 @@
-﻿using _24HourReply.Model;
+﻿using _24HourReply.Data;
+using _24HourReply.Model;
 using RM24HourAPI.Models;
 using System;
 using System.Collections.Generic;

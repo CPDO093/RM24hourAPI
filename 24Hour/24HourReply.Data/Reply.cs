@@ -7,12 +7,13 @@ using System.Threading.Tasks;
 
 namespace _24HourReply.Data
 {
-    internal class Reply
+    public class Reply
     {
         [Key]
         public int ReplyId { get; set; }
         [Required]
         public string RText { get; set; }
-
+        public Guid OwnerId { get; set; }
+        public DateTimeOffset CreatedUtc { get; set; }
     }
 }

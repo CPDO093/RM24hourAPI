@@ -62,6 +62,10 @@
       <Project>{965C9BCE-F2C3-4CF0-A19B-A4C741E83B52}</Project>
       <Name>24HourPost.Data</Name>
     </ProjectReference>
+    <ProjectReference Include="..\24HourReply.Data\24HourReply.Data.csproj">
+      <Project>{FC00837C-E3B0-4F87-9F25-571441EBD8A5}</Project>
+      <Name>24HourReply.Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\24HourReply.Model\24HourReply.Model.csproj">
       <Project>{72A5B23F-11D6-49D8-AAB8-6FBB743A3247}</Project>
       <Name>24HourReply.Model</Name>
