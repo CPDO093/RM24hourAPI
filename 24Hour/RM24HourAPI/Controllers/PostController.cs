@@ -46,5 +46,15 @@ namespace RM24HourAPI.Controllers
             var post = postService.GetPostById(id);
             return Ok(post);
         }
+
+        public IHttpActionResult Delete(int id)
+        {
+            var service = CreatePostService();
+
+            if (!service.DeletePost(id))
+                return InternalServerError();
+
+            return Ok();
+        }
     }
 }
