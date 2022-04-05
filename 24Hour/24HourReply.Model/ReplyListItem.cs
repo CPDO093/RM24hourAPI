@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace _24HourReply.Model
 {
-    internal class ReplyListItem
+    public class ReplyListItem
     {
         public int ReplyId { get; set; }
         

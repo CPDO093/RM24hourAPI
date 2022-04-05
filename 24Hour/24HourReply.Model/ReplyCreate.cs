@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace _24HourReply.Model
 {
-    internal class ReplyCreate
+    public class ReplyCreate
     {
         [Required]
         [MinLength(2, ErrorMessage="Not enough characters for a reply!")]
