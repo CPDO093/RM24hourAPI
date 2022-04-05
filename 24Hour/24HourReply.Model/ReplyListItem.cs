@@ -10,7 +10,8 @@ namespace _24HourReply.Model
     public class ReplyListItem
     {
         public int ReplyId { get; set; }
-        
+        public string RText { get; set; }
+
         [Display(Name="Created")]
         public DateTimeOffset CreatedUtc { get; set; }
     }

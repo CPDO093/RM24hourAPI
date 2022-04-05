@@ -10,5 +10,6 @@ namespace _24HourReply.Model
     {
         public int ReplyId { get; set; }
         public string RText { get; set; }
+        public DateTimeOffset ModifiedUtc { get; set; }
     }
 }
