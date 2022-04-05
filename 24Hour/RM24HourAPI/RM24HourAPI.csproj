@@ -208,6 +208,7 @@
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\PostController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -306,6 +307,20 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\24HourPost.Data\24HourPost.Data.csproj">
+      <Project>{965c9bce-f2c3-4cf0-a19b-a4c741e83b52}</Project>
+      <Name>24HourPost.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\24HourPost.Model\24HourPost.Model.csproj">
+      <Project>{5d6ac5f9-b3ad-4a22-a355-7344fb11f4ee}</Project>
+      <Name>24HourPost.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\24HourPost.Services\24HourPost.Services.csproj">
+      <Project>{40bfc964-3424-48d2-9081-266fd03eaec1}</Project>
+      <Name>24HourPost.Services</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
