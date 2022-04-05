@@ -44,5 +44,19 @@
     <Compile Include="CommentService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\24HourComment.Data\24HourComment.Data.csproj">
+      <Project>{6aa26493-34eb-40cc-8ba3-3520719c7c3a}</Project>
+      <Name>24HourComment.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\24HourComment.Model\24HourComment.Model.csproj">
+      <Project>{F9723FDD-8703-42BB-B0ED-C854C9CE5DFC}</Project>
+      <Name>24HourComment.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\24HourPost.Data\24HourPost.Data.csproj">
+      <Project>{965C9BCE-F2C3-4CF0-A19B-A4C741E83B52}</Project>
+      <Name>24HourPost.Data</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
