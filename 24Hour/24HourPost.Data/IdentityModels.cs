@@ -1,5 +1,8 @@
-﻿using System.Security.Claims;
+﻿using System.Data.Entity;
+using System.Data.Entity.ModelConfiguration;
+using System.Security.Claims;
 using System.Threading.Tasks;
+using _24HourPost.Data;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 
@@ -27,6 +30,25 @@ namespace RM24HourAPI.Models
         public static ApplicationDbContext Create()
         {
             return new ApplicationDbContext();
+
+        }
+
+        public DbSet<Post> Posts { get; set; } 
+    }
+
+    public class IdentityUserLoginConfiguration : EntityTypeConfiguration<IdentityUserLogin>
+    {
+        public IdentityUserLoginConfiguration()
+        {
+            HasKey(iul => iul.UserId);
+        }
+    }
+
+    public class IdentityUserRoleConfiguration : EntityTypeConfiguration<IdentityUserRole>
+    {
+        public IdentityUserRoleConfiguration()
+        {
+            HasKey(iur => iur.UserId);
         }
     }
 }
