@@ -44,5 +44,15 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReplyServices.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\24HourPost.Data\24HourPost.Data.csproj">
+      <Project>{965C9BCE-F2C3-4CF0-A19B-A4C741E83B52}</Project>
+      <Name>24HourPost.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\24HourReply.Model\24HourReply.Model.csproj">
+      <Project>{72A5B23F-11D6-49D8-AAB8-6FBB743A3247}</Project>
+      <Name>24HourReply.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
